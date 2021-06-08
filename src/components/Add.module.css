@@ -1,0 +1,25 @@
+.actions {
+  width: 80%;
+  margin: 0 auto;
+}
+.text {
+  position: relative;
+  padding: 10px;
+  background-color: rgb(43, 164, 235);
+  color: white;
+  font-size: large;
+  border-radius: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn {
+  position: absolute;
+  right: 10px;
+  color: white;
+  background-color: red;
+}
+.btn1 {
+  position: absolute;
+  right: 70px;
+  color: white;
+  background-color: green;
+}

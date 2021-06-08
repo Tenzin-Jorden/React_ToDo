@@ -1,0 +1,17 @@
+.container {
+  width: 30%;
+  height: 60vh;
+  margin: 70px auto;
+  border: 1px solid black;
+  background-color: rgb(37, 35, 31);
+  border-radius: 10px;
+}
+
+.head {
+  margin-top: 30px;
+  color: rgb(241, 235, 235);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  letter-spacing: 1px;
+}

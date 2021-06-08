@@ -1,0 +1,19 @@
+.search {
+  text-align: center;
+}
+
+.word {
+  border: 3px solid rgb(76, 32, 219);
+  width: 60%;
+  padding: 10px;
+  font-weight: 300;
+  outline: none;
+}
+
+.button {
+  color: white;
+  font-weight: 900;
+  padding: 10px;
+  background-color: rgb(76, 32, 219);
+  border: 3px solid rgb(76, 32, 219);
+}
